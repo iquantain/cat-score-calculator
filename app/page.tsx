@@ -116,7 +116,7 @@ export default function Home() {
                       placeholder="Enter Email"
                       className="w-full p-3 focus:outline-none rounded-xl  bg-[#DEDEDE] text-black text-[14px] font-medium"
                     />
-                    <button className="group bg-black w-full p-3 text-[16px] font-medium rounded-full mt-2 cursor-pointer flex justify-center gap-2 items-center">
+                    <button className=" text-white group bg-black w-full p-3 text-[16px] font-medium rounded-full mt-2 cursor-pointer flex justify-center gap-2 items-center">
                       Submt
                       <svg
                         className="w-[20px] h-[20px] rotate-[43deg] transition-transform duration-300 group-hover:rotate-0"

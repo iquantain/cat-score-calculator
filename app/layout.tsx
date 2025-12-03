@@ -12,6 +12,8 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+<meta name="google-site-verification" content="cM1Zln2IHIS29D2TLIbby1Z5ThVLLKLHgafSq6bcw3Q" />
+
 export const metadata = {
   title: "CAT Score Calculator 2025: Live (Check Now)",
   description:
