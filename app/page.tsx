@@ -41,7 +41,7 @@ export default function Home() {
         </div>
       </nav>
 
-      <div className="banner-wrapper lg:py-20 py-6 px-4 relative overflow-hidden">
+      <div className="banner-wrapper lg:py-20 py-6 px-4 relative overflow-hidden bg-black">
         <div className="max-w-6xl mx-auto">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 lg:gap-16 relative z-10 items-center">
             <div className="content-wrap">
@@ -137,7 +137,7 @@ export default function Home() {
           <div className="bg-circle absolute w-[420px] h-[420px] rounded-full bg-[#4D2F0B] bottom-[-300px] left-[250px] blur-[60px]"></div>
         </div>
       </div>
-      <div className="top-schools py-6 px-4" id="bSchools">
+      <div className="top-schools py-6 px-4 bg-black" id="bSchools">
         <div className="max-w-6xl mx-auto">
           <h2 className="text-center text-white md:text-[45px] text-[21px] font-extrabold lg:mb-6 mb-4 bg-gradient-to-r from-emerald-300 via-white to-emerald-300 bg-clip-text text-transparent drop-shadow-[0_0_30px_rgba(16,185,129,0.3)] ">
             IIMs & Top B-schools via CAT
