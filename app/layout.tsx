@@ -33,10 +33,10 @@ export const metadata = {
     siteName: "Vercel",
     images: [
       {
-        url: "https://media.iquanta.in/ui_images/cat-score-calculator.webp",
+        url: "https://cat-score-calculator.vercel.app/cat-score-calculator.png",
         width: 720,
         height: 1280,
-        type: "image/webp",
+        type: "image/png",
       },
     ],
   },
@@ -48,10 +48,10 @@ export const metadata = {
       "Calculate your CAT exam percentile instantly with our fast and accurate CAT Score Calculator. Easy to use, mobile-friendly, and optimized for lightning-fast performance",
     images: [
       {
-        url: "https://media.iquanta.in/ui_images/cat-score-calculator.webp",
+        url: "https://cat-score-calculator.vercel.app/cat-score-calculator.png",
         width: 1280,
         height: 720,
-        type: "image/webp",
+        type: "image/png",
       },
     ],
   },
