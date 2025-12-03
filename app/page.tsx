@@ -52,7 +52,7 @@ export default function Home() {
                 </span>
                  2025
               </h1>
-              <h2 className="lg:text-[28px] text-[16px] text-center lg:text-left px-4 py-2 bg-[#ffffff1c] font-extrabold italic mb-4">
+              <h2 className="lg:text-[28px] text-[16px] text-center lg:text-left px-4 py-2 bg-[#ffffff1c] font-extrabold italic mb-4 text-white">
                 Get Your CAT Percentile Prediction!
               </h2>
               <p className="text-white lg:text-[16px] text-[14px] lg:text-left text-center  font-medium">
@@ -65,7 +65,7 @@ export default function Home() {
                   <span className="lg:py-1.5 lg:px-4 py-1 px-2 text-[11px] lg:text-[16px] font-bold bg-linear-to-r from-[#48A170] to-[#307184] rounded-full border border-[#52B568]">
                     New
                   </span>
-                  <h3 className="flex lg:gap-1.5 gap-3 items-center uppercase lg:text-[14px] text-[12px] lg:leading-normal leading-[16px] font-bold">
+                  <h3 className="flex lg:gap-1.5 gap-3 items-center uppercase lg:text-[14px] text-[12px] lg:leading-normal leading-[16px] font-bold text-white">
                     <span className="relative flex">
                       <span className="lg:w-[12px] lg:h-[12px] w-[10px] h-[10px] bg-gradient-to-r from-[#48A170] to-[#307184] rounded-full"></span>
                       <span className="absolute inset-0 lg:w-[12px] lg:h-[12px] w-[10px] h-[10px] rounded-full bg-[#48A170] opacity-75 animate-ping"></span>
