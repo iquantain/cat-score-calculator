@@ -3599,7 +3599,7 @@ export default function Home() {
                 </div>
               </TabPanel>
             </Tabs>
-              <p class="text-white">Loved by iQuanta - <a href="https://www.iquanta.in/cat-score-calculator" target="_blank">CAT Score Calculator</a></p>
+              <p className="text-white">Loved by iQuanta - <a href="https://www.iquanta.in/cat-score-calculator" target="_blank">CAT Score Calculator</a></p>
           </div>
         </div>
       </div>
